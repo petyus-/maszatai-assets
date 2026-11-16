@@ -1,0 +1,11 @@
+PROBE DATA (from Peti's real Mitutoyo STEP — verify against these):
+beam blade: 3.55 thick x 16.0 deep profile (L-shape: rail leg + web + scale band)
+scale strip: pokes 2.0mm beyond blade face on one side; depth rod pokes 0.6mm other side
+profile total width across: 6.15mm
+slider assembly: 61.2 long x 13.15 deep x 42.0 tall (LCD on front face)
+fixed jaw / jaw span: 76.5mm total height at jaw end
+total: 233.0 long, 13.65 deep, 76.5 tall
+mountA_v8 slot: 6.95 wide x 16.8 deep x 95 tall; step pad top at z=17
+clearances: 0.69mm per side (X), 0.0/0.8mm (Y back/front)
+mountB_v8: bay 87.2 x 15.5 x 44 deep (slider), canal 6.4 wide x 17.5 (blade), heel+lip retention
+use mitutoyo_real_mesh.stl for mesh-level signed-distance checks
