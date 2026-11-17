@@ -118,3 +118,17 @@ tree_insert_section.png — 3-panel section: empty port / puck pushed up
 - puck ends up caged: cradle web (Ø37.5 hole) above, tabs below — hangs
   gravity-safe, twist or pull to remove for battery change
 - print: tree upside down (port = bed face), zero supports, 2 parts total
+
+PETI'S SHELF CONCEPTS (his two ideas, built):
+S1 — CROSS-SLOT SHELF PLATE (tree_shelf_base.stl + tree_shelf_plate.stl):
+  4 slots in the base wall (cross pattern, z 8..14); separately printed
+  Ø44 plate with 2 tongues + tip hooks presses into ANY opposite pair
+  (90° choice), keyhole drops hook it; candle rests on the plate.
+S2 — RUBBER-BAND DISC (tree_band_base.stl + tree_band_disc.stl):
+  6 slots around the base (z 10..14); Ø44 disc with 6 long pegs + tip nubs
+  slides pegs into the slots; ANY household rubber band wrapped around the
+  outside over the tip nubs locks them (nubs stop the band sliding up).
+  Candle rests on the disc; finger hole in the disc center for removal.
+  2 printed parts, no hooks, simplest print of all variants.
+Both: disc/plate carries the candle weight via the wall slots (weight ->
+slot lip -> wall), nothing floats; windows + star unchanged.
