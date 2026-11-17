@@ -107,3 +107,14 @@ half-circle tabs click over its rim. Star is the only second part.
 - half-split tree: NOT recommended — visible seam up the whole tree,
   alignment risk, more print area.
 4-step assembly diagram: tree_assembly_2part.png
+
+INSERTION EXPLAINER (Peti: "how exactly is the light added?"):
+tree_insert_section.png — 3-panel section: empty port / puck pushed up
+(tabs bend) / clicked (rim above tabs, caged). Mechanism, exact:
+- bottom port Ø39.5mm opening, LED puck Ø38x10mm slides in with 0.75mm/side
+  clearance
+- two half-circle tabs (inner Ø36.2 at the mouth) flex outward ~0.9mm as the
+  puck passes, spring back behind its rim
+- puck ends up caged: cradle web (Ø37.5 hole) above, tabs below — hangs
+  gravity-safe, twist or pull to remove for battery change
+- print: tree upside down (port = bed face), zero supports, 2 parts total
