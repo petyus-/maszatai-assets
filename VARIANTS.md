@@ -34,3 +34,17 @@ Normal commercial-style wall clip, human logic: press cable in from the front, d
 - listing copy: "Press the cable in from the front - it snaps in and stays.
   Screw or stick the clip to the wall. To remove, pull the cable out.
   That's it. No threading, no rings."
+
+TREE v5 — HANGING ORNAMENT (Peti: "this will be hung on a Christmas tree"):
+- side arch CLOSED (light stays inside; sides solid again)
+- LED goes in from BELOW: Ø39.5 bottom port, LED tea light (Ø38 body + Ø42 rim)
+  flexes past two half-circle snap tabs at the port mouth -> clicks in, stays
+  (35.9mm^3 tab grip = positive snap, twist or pull to change battery)
+- internal seat web at z8-10 with Ø37.5 hole holds the LED body centered
+- hollow chamber + triangle windows unchanged (light shines through)
+- bigger star (r24) with Ø3.8 hanging hole through the top arm — hang it on the
+  tree with the LED lit
+- 102mm tall, prints upside-down flat (port up) — no supports
+- listing copy: "A glowing ornament for the Christmas tree: click an LED tea
+  light into the bottom port, hang it by the star, and the light shines
+  through the little triangle windows. Battery changes in seconds."
