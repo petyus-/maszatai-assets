@@ -96,3 +96,14 @@ C — TWIST-LOCK BASE (tree_led_C_bayonet.stl + tree_led_C_plate.stl): separate
     L-slots (jar-lid logic). Most secure; 2 printed parts.
 All three: weight path light->web/ring->wall (nothing floats), star + hanging
 hole unchanged, windows unchanged. Peti picks one; that becomes the listing.
+
+ASSEMBLY CLARITY (Peti: "3-part print? or half-split? which is easier?"):
+RECOMMENDED = 2-PART KIT (tree_led_A_click.stl + star = same file, star is
+molded in): tree prints UPSIDE DOWN flat (port = print bed face, no supports,
+no cap part), mini LED puck (Ø38x10) drops into the bottom port, two molded
+half-circle tabs click over its rim. Star is the only second part.
+- vs Kover's 3-part kit (tree + cap + star): same result, one extra part to
+  not lose; only advantage = sealed flat base.
+- half-split tree: NOT recommended — visible seam up the whole tree,
+  alignment risk, more print area.
+4-step assembly diagram: tree_assembly_2part.png
