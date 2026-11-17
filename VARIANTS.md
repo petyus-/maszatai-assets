@@ -70,3 +70,14 @@ wall (blind pockets) — root-caused and rebuilt:
 - verification: radial void probe = 48/49 fully open, 1 apex-sliver borderline
   (tier 10); LED clearance re-checked (38.9mm^3 = tab grip only)
 - STL replaced in repo: tree_v6_scatter.stl (this is the real, pierced version)
+
+CUT-THROUGH VIEWS (Peti: show the battery light inside on the listing):
+- tree_v6_cutthrough.png: section cut exposing the hollow interior with the
+  LED tea light visible in the snap port + light escaping through the windows
+- listing gallery order: hanging-glow shot, cut-through (how it works),
+  studio front, scatter map
+GO-LIVE (Peti approved "make these live"):
+- tree listing: swap STL to tree_v6_scatter.stl (v6.1 pierced windows) +
+  add cut-through shot to gallery
+- cable clip listing: cable_clip_v3_6mm.stl (+ 8mm/10mm variants on request)
+  replaces the old ring clips everywhere
