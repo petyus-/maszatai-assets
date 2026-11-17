@@ -81,3 +81,18 @@ GO-LIVE (Peti approved "make these live"):
   add cut-through shot to gallery
 - cable clip listing: cable_clip_v3_6mm.stl (+ 8mm/10mm variants on request)
   replaces the old ring clips everywhere
+
+LED HOLDER OPTIONS (Peti: "find 2-3 types of supports where the light can be
+added and will be kept inside" — the light must be visibly SUPPORTED, nothing
+floating; tree hangs, so the holder carries the light's weight):
+A — CLICK TABS (tree_led_A_click.stl): bottom Ø39.5 port, LED pushes in from
+    below, two half-circle tabs click over the rim flange. Web at z8-10 carries
+    the weight. Fastest battery change (2s), no extra parts.
+B — SLIDE-IN CRADLE (tree_led_B_slide.stl): sealed bottom; side slot in the
+    trunk (44x8mm) with entry lip; light slides sideways onto a cradle web.
+    Most "toy-like" to use; sealed base = no light leaks down.
+C — TWIST-LOCK BASE (tree_led_C_bayonet.stl + tree_led_C_plate.stl): separate
+    Ø39 plate; light rests on the plate's web, plate twists 30° into two
+    L-slots (jar-lid logic). Most secure; 2 printed parts.
+All three: weight path light->web/ring->wall (nothing floats), star + hanging
+hole unchanged, windows unchanged. Peti picks one; that becomes the listing.
