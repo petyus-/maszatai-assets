@@ -132,3 +132,14 @@ S2 — RUBBER-BAND DISC (tree_band_base.stl + tree_band_disc.stl):
   2 printed parts, no hooks, simplest print of all variants.
 Both: disc/plate carries the candle weight via the wall slots (weight ->
 slot lip -> wall), nothing floats; windows + star unchanged.
+
+PETI'S FIGURE-8 RUBBER BAND (tree_fig8_base.stl + tree_fig8_plate.stl):
+Peti: "the bottom would be held by the rubber band in a figure-8 shape".
+- tree: plain hollow tree, OPEN flat bottom, zero mechanism (simplest print:
+  upside down, port = bed face); one raised band-ring outside near the rim
+- base plate: Ø50x3 with rim + groove; candle stands ON the plate inside
+- ONE household rubber band wrapped as a figure-8: loop 1 seats in the
+  plate's groove, crosses itself, loop 2 seats on the tree's band-ring —
+  tension presses the plate against the bottom (candle + plate held)
+- battery access: slide the band off, plate drops out, swap, re-wrap
+- 2 printed parts, no hooks/tabs/slots anywhere; band = household item
