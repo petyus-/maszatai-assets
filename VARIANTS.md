@@ -48,3 +48,14 @@ TREE v5 — HANGING ORNAMENT (Peti: "this will be hung on a Christmas tree"):
 - listing copy: "A glowing ornament for the Christmas tree: click an LED tea
   light into the bottom port, hang it by the star, and the light shines
   through the little triangle windows. Battery changes in seconds."
+
+TREE v6 — SCATTERED WINDOWS (Peti: "scatter the triangle holes, 4-5 per level,
+no same vertical column, a bit of randomness"):
+- same sealed hanging design as v5 (bottom LED snap port, star hanging hole)
+- 50 triangle windows scattered over 11 tiers, 4-5 per tier
+- seeded RNG (seed 42, reproducible): per-hole angle jitter + min 28 deg spacing
+  within a tier and min 20 deg vs the tier below (kills vertical columns),
+  radial jitter 0-1.5mm, vertical jitter inside each tier wall
+- hole size scales with tier radius (8mm at base down to 4mm at top)
+- verified: 52/52 raycasts pass through the wall into the cavity
+- replaces the v5 window layout in the listing; STL: tree_v6_scatter.stl
