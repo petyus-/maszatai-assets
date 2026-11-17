@@ -22,3 +22,15 @@ TREE v3 (replaces the smooth-cone tree on the shop):
 - listing copy: "Candle-lit Christmas tree — slide an LED tea light under the
   arch and watch the glow shine through the triangle windows. Star stands
   upright on top. Prints in one piece, no supports."
+
+CABLE CLIP v3 (replaces BOTH old concepts - ring and C-ring):
+Normal commercial-style wall clip, human logic: press cable in from the front, done.
+- flat back plate (adhesive pad + screw hole) against the wall
+- open-top slot on the FRONT face: cable presses in from above, snap bumps grip
+- 6.4mm channel + 4mm snap throat for 6mm cable: positive retention, pull to release
+- slot floor at 3mm carries the weight; cable runs vertically along the wall
+- 16x12x10mm body + flange; prints flat on its back in ~10 min, no supports
+- sizes: 6mm (now), 8mm + 10mm = same script, CH_W 8.4/10.4
+- listing copy: "Press the cable in from the front - it snaps in and stays.
+  Screw or stick the clip to the wall. To remove, pull the cable out.
+  That's it. No threading, no rings."
