@@ -59,3 +59,14 @@ no same vertical column, a bit of randomness"):
 - hole size scales with tier radius (8mm at base down to 4mm at top)
 - verified: 52/52 raycasts pass through the wall into the cavity
 - replaces the v5 window layout in the listing; STL: tree_v6_scatter.stl
+
+TREE v6.1 — WINDOWS FIXED (projected onto the 3D model for real):
+Peti approved the scatter map; this build PROJECTS those windows INTO the STL
+for real. The previous scatter STL had the cutters landing mostly inside the
+wall (blind pockets) — root-caused and rebuilt:
+- cutter = point-up triangle prism with RADIAL axis (tangent-z triangle,
+  extruded inward 14mm through the 6mm wall) — cannot fail to pierce
+- window fully inside its tier band (zc + h <= tier_z + 5.5, no seam crossing)
+- verification: radial void probe = 48/49 fully open, 1 apex-sliver borderline
+  (tier 10); LED clearance re-checked (38.9mm^3 = tab grip only)
+- STL replaced in repo: tree_v6_scatter.stl (this is the real, pierced version)
