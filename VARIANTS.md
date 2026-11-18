@@ -153,3 +153,14 @@ bottom plate"):
   crossing pass under the center, upper loop on the tree's band-ring
 - side view stays clean (band only visible from below)
 - STLs: tree_fig8v2_base.stl + tree_fig8v2_plate.stl (supersede fig8 v1)
+
+TREE v7 — LINKED LAYERS (Peti: "layers of the outer tree linked one to
+another, common printable layers"):
+- replaces the stacked-disc tiers: true surface of revolution (single revolve,
+  no slab seams), outer profile = continuous cone 55->12 with gentle 1.2mm
+  tier notches (staircase-printable, < 45° everywhere)
+- inner cavity follows the SAME taper: uniform 3mm wall over the whole height
+  => one connected body, no ledges, stronger, zero supports
+- everything kept: 49 scattered windows (seed 42), figure-8 band ring,
+  open bottom + plate, star with 4mm hanging hole
+- STL: tree_v7_linked.stl — swap for tree_fig8v2_base.stl in the listing
