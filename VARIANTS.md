@@ -143,3 +143,13 @@ Peti: "the bottom would be held by the rubber band in a figure-8 shape".
   tension presses the plate against the bottom (candle + plate held)
 - battery access: slide the band off, plate drops out, swap, re-wrap
 - 2 printed parts, no hooks/tabs/slots anywhere; band = household item
+
+FIG-8 v2 — BAND UNDER THE PLATE (Peti: "the 8-shaped gummi will be under the
+bottom plate"):
+- plate underside now has a band CHANNEL: two raised rings (Ø38/Ø46.5, 2.2mm)
+  with a Ø40-44 channel between them — the band's under-loop seats there and
+  cannot slide off inward or outward
+- the 8 crossing sits fully BELOW the plate: under-loop through the channel +
+  crossing pass under the center, upper loop on the tree's band-ring
+- side view stays clean (band only visible from below)
+- STLs: tree_fig8v2_base.stl + tree_fig8v2_plate.stl (supersede fig8 v1)
